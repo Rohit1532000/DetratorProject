@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DetratorProject/static/css/main.073c9b0a.css",
+    "main.js": "/DetratorProject/static/js/main.924008f2.js",
+    "index.html": "/DetratorProject/index.html",
+    "main.073c9b0a.css.map": "/DetratorProject/static/css/main.073c9b0a.css.map",
+    "main.924008f2.js.map": "/DetratorProject/static/js/main.924008f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.924008f2.js"
+  ]
+}
